@@ -1,0 +1,22 @@
+@charset "UTF-8";
+html{
+    font-size: 100%;
+}
+body {
+    background-color: yellow;
+}
+h1 {
+    font-family: serif;
+    font-weight: 500;
+    color: #0bd;
+    font-size: 2rem;
+}
+h2{
+    font-size: 20px;
+    font-family: "游ゴシック体";
+}
+
+div p{
+    font-family: "Hiragino Maru Gothic Pro";
+    color: blue;
+}
